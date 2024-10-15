@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "jest",
+    "start": "node city-data.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "sinon": "^19.0.2"
+  },
+  "jest": {
+    "testMatch": ["**/?(*.)+(spec).[tj]s?(x)"]
+  }
+}

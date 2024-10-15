@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "checkJs": true,
+  "allowJs": true,
+  "target": "ES6",
+  "strict": true
+ },
+ "include": ["**/*.d.js", "**/*.d.ts"],
+ "exclude": ["node_modules"]
+}
